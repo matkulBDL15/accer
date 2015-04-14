@@ -1,0 +1,2 @@
+# accer
+perangkat laptop
